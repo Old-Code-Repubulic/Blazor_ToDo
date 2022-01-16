@@ -12,5 +12,6 @@
         <li>At compile time, every Razor component is built into a .NET class (includes UI elements like state, rendering logic, lifecycle methods and event handlers)</li>
         <li>**First three sections of learning path is just a review of the counter app</li>
         <li>Layouts: Components that allow you to avoid duplication of content in an app</li>
-    </ol>
+        <li>**Reminder: The .razor page is the component (it is a razor component)</li>
+        </ol>
 </div>
