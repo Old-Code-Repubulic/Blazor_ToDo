@@ -15,3 +15,7 @@
         <li>**Reminder: The .razor page is the component (it is a razor component)</li>
         </ol>
 </div>
+
+<p align="center">
+  <img src="BlazorTodo.png" width="350" title="hover text">
+</p>
