@@ -17,6 +17,10 @@
     private string? newToDo;
     private void AddToDo()
     {
-        //Todo: Add the todo
+        if (!string.IsNullOrWhiteSpace(newToDo))
+        {
+            todos.Add(new TodoItem { Title = newToDo });
+            newToDo = string.Empty;
+        }
     }
 }
