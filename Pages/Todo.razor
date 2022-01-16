@@ -5,9 +5,12 @@
 <ul>
     @foreach (var todo in todos)
     {
-        <li>2todo.Title</li>
+        <li>@todo.Title</li>
     }
 </ul>
+
+<input placeholder="something todo" />
+<button>Add todo</button>
 
 @code {
     private List<TodoItem> todos = new();
