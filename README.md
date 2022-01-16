@@ -14,4 +14,7 @@
         <li>Layouts: Components that allow you to avoid duplication of content in an app</li>
         <li>**Reminder: The .razor page is the component (it is a razor component)</li>
         </ol>
+    
+    ![image](https://user-images.githubusercontent.com/65512129/149648168-b55e02ed-4f63-43c6-a12d-1c6c21a1b5cb.png)
+
 </div>
