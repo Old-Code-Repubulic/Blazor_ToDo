@@ -111,6 +111,39 @@
         }
       },
       {
+        "HashCode": -866311311,
+        "Kind": "Components.Component",
+        "Name": "blazorWebAssembly.Pages.Todo",
+        "AssemblyName": "blazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorWebAssembly.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 573681922,
+        "Kind": "Components.Component",
+        "Name": "blazorWebAssembly.Pages.Todo",
+        "AssemblyName": "blazorWebAssembly",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorWebAssembly.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorWebAssembly.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 482883971,
         "Kind": "Components.Component",
         "Name": "blazorWebAssembly.App",
@@ -16624,6 +16657,11 @@
     {
       "FilePath": "c:\\Users\\josep\\Documents\\Code\\blazorWebAssembly\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\josep\\Documents\\Code\\blazorWebAssembly\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {

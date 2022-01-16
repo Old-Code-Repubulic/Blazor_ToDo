@@ -4,3 +4,13 @@
 <p>
     After completing the very quick tutorial on the Microsoft docs for Blazor, I decided I needed to find a lengthier tutorial. The Blazor App in this repository will be created as I go through the learning patch linked in the header. I hope to better understand the blazor components. I also plan to follow this tutorial with the React online tutorial, as I'm sensing a familar pattern between the two. 
 </p>
+
+<div>
+    <h4>Notes</h4>
+    <ol>
+        <li><b>Razor Components</b> - Razor files define components that make up a portion of the app UI</li>
+        <li>At compile time, every Razor component is built into a .NET class (includes UI elements like state, rendering logic, lifecycle methods and event handlers)</li>
+        <li>**First three sections of learning path is just a review of the counter app</li>
+        <li></li>
+    </ol>
+</div>
